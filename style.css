@@ -6,12 +6,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #cf1259;
+    background-color: #323232;
     padding: 40px;
     
 }
 .container{
-    background-color:#DD7596;
+    background-color:#DDD0C8;
     min-height: 400px;
     width: 300px;
     border-radius: 2rem;
@@ -50,11 +50,13 @@ body{
     font-size: 1.5rem;
 }
 
+
 .select-container img{
-    max-width: 30px;
+    max-width: 40px;
 }
 .select-container select{
     font-size: 1rem;
+    
 }
 
 .msg{
